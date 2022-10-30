@@ -6,3 +6,15 @@ body{
     font-size: 40px;
     color: black;
 }
+
+button{
+    padding: 8px 20px;
+    background-color: yellow;
+    color: blanchedalmond;
+    border-radius: 25px;
+}
+
+button:hover{
+    background-color: #5d3eff;
+    transition: all 300ms ease;
+}
