@@ -138,7 +138,7 @@ nav{
 .personal__logo{
     font-size: 24px;
     font-style: italic;
-    text-decoration: underline;
+    text-decoration: none;
     color: darkblue;
     margin: 0 12px;
     font-weight: bold;
