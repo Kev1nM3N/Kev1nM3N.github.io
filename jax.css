@@ -144,6 +144,10 @@ nav{
     font-weight: bold;
 }
 
+.personal__logo:hover{
+    color: aqua;
+}
+
 /*about me section*/
 
 #about-me{
